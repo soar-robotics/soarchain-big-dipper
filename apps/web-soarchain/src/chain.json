@@ -1,0 +1,241 @@
+{
+  "chainName": "Soarchain",
+  "title": "Soarchain Block Explorer",
+  "extra": {
+    "profile": true,
+    "graphqlWs": false
+  },
+  "previewImage": "https://static.wixstatic.com/media/4fd8f3_74b05ef54c9b4b72bd9183fb7658eb03~mv2.png/v1/fill/w_191,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/soarchain_logo_mono.png",
+  "themes": {
+    "default": "dark",
+    "themeList": [
+      "dark",
+      "light",
+      "deuteranopia",
+      "tritanopia"
+    ],
+    "dark": {
+      "primary": {
+        "main": "#FF835B",
+        "contrastText": "#FFFFFF"
+      },
+      "background": {
+        "default": "#000000",
+        "paper": "#131316"
+      },
+      "divider": "#282828",
+      "text": {
+        "primary": "#E6E6E6",
+        "secondary": "#C4C4C4"
+      },
+      "custom": {
+        "general": {
+          "background": "#000000",
+          "surfaceOne": "#131316",
+          "surfaceTwo": "#212123",
+          "icon": "#999999"
+        },
+        "fonts": {
+          "fontOne": "#E6E6E6",
+          "fontTwo": "#C4C4C4",
+          "fontThree": "#818181",
+          "fontFour": "#999999",
+          "fontFive": "#FFFFFF",
+          "highlight": "#4092CD"
+        },
+        "primaryData": {
+          "one": "#F87255",
+          "two": "#FA9147",
+          "three": "#43BE7C",
+          "four": "#43A1BE"
+        },
+        "results": {
+          "pass": "#1EC490",
+          "fail": "#FD3B4C"
+        },
+        "tokenomics": {
+          "one": "#43A1BE",
+          "two": "#E3BB55",
+          "three": "#20D292"
+        },
+        "condition": {
+          "zero": "#E6E6E6",
+          "one": "#1EC490",
+          "two": "#FF9338",
+          "three": "#FF608A"
+        },
+        "charts": {
+          "zero": "#E6E6E6",
+          "one": "#43BE7C",
+          "two": "#FA9147",
+          "three": "#F44747",
+          "four": "#43A1BE",
+          "five": "#C25396"
+        },
+        "tags": {
+          "zero": "#E8E8E8",
+          "one": "#2460FA",
+          "two": "#2BA897",
+          "three": "#E79726",
+          "four": "#F17053",
+          "five": "#DA4B4B",
+          "six": "#9438DC",
+          "seven": "#1A869D",
+          "eight": "#2C9950",
+          "nine": "#B49F37",
+          "ten": "#E9A852",
+          "eleven": "#E94687",
+          "twelve": "#C15EC4",
+          "thirteen": "#C388D9",
+          "fourteen": "#46AEE9",
+          "fifteen": "#58BC91",
+          "sixteen": "#90BC58",
+          "seventeen": "#E99E8E",
+          "eighteen": "#F0A479",
+          "nineteen": "#D37763",
+          "twenty": "#D9C788"
+        },
+        "wallet": {
+          "background": "#5E5E5E",
+          "backgroundTwo": "#212123",
+          "surfaceOne": "#5E5C5C",
+          "surfaceTwo": "#D9D9D9",
+          "surfaceThree": "#4D4D4D",
+          "surfaceFour": "#414141",
+          "surfaceFive": "#777777",
+          "divider": "#34383E",
+          "textPrimary": "#000000",
+          "textSecondary": "#DDDDDD"
+        }
+      }
+    },
+    "light": {
+      "primary": {
+        "main": "#FF835B",
+        "contrastText": "#FFFFFF"
+      },
+      "background": {
+        "default": "#F8F8F8",
+        "paper": "#FFFFFF"
+      },
+      "divider": "#E8E8E8",
+      "text": {
+        "primary": "#000000",
+        "secondary": "#414141"
+      },
+      "custom": {
+        "general": {
+          "background": "#F8F8F8",
+          "surfaceOne": "#FFFFFF",
+          "surfaceTwo": "#F8F8F8",
+          "icon": "#999999"
+        },
+        "fonts": {
+          "fontOne": "#000000",
+          "fontTwo": "#414141",
+          "fontThree": "#777777",
+          "fontFour": "#999999",
+          "fontFive": "#FFFFFF",
+          "highlight": "#4092CD"
+        },
+        "primaryData": {
+          "one": "#F87255",
+          "two": "#FA9147",
+          "three": "#20D494",
+          "four": "#2FB6E0"
+        },
+        "results": {
+          "pass": "#1EC490",
+          "fail": "#FD3B4C"
+        },
+        "tokenomics": {
+          "one": "#2FB6E0",
+          "two": "#FFC93D",
+          "three": "#20D494"
+        },
+        "condition": {
+          "zero": "#E6E6E6",
+          "one": "#1EC490",
+          "two": "#FF9338",
+          "three": "#FF608A"
+        },
+        "charts": {
+          "zero": "#E6E6E6",
+          "one": "#20D494",
+          "two": "#FF8732",
+          "three": "#F44747",
+          "four": "#2FB6E0",
+          "five": "#E95EB1"
+        },
+        "tags": {
+          "zero": "#E8E8E8",
+          "one": "#2460FA",
+          "two": "#2BA891",
+          "three": "#E79720",
+          "four": "#F17047",
+          "five": "#DA4B4B",
+          "six": "#9438DC",
+          "seven": "#1A869D",
+          "eight": "#2C9944",
+          "nine": "#B49F31",
+          "ten": "#E9A846",
+          "eleven": "#E94681",
+          "twelve": "#C15EC4",
+          "thirteen": "#C388D9",
+          "fourteen": "#46AEE9",
+          "fifteen": "#58BC91",
+          "sixteen": "#90BC58",
+          "seventeen": "#E99E8E",
+          "eighteen": "#F0A479",
+          "nineteen": "#D37763",
+          "twenty": "#D9C788"
+        },
+        "wallet": {
+          "background": "#E8E8E8",
+          "backgroundTwo": "#FFFFFF",
+          "surfaceOne": "#5E5C5C",
+          "surfaceTwo": "#E8E7E8",
+          "surfaceThree": "#BDBDBD",
+          "surfaceFour": "#A1A1A1",
+          "surfaceFive": "#777777",
+          "divider": "#34383E",
+          "textPrimary": "#000000",
+          "textSecondary": "#222222"
+        }
+      }
+    }
+  },
+  "keplr": "{\"chainId\":\"soarchaintestnet\",\"chainName\":\"soar\",\"rpc\":\"http://34.135.24.90:26657\",\"rest\":\"https://api.devnet.soarchain.com\",\"bip44\":{\"coinType\":118},\"coinType\":118,\"bech32Config\":{\"bech32PrefixAccAddr\":\"soar\",\"bech32PrefixAccPub\":\"soarpub\",\"bech32PrefixValAddr\":\"soarvaloper\",\"bech32PrefixValPub\":\"soarvaloperpub\",\"bech32PrefixConsAddr\":\"soarvalcons\",\"bech32PrefixConsPub\":\"soarvalconspub\"},\"currencies\":[{\"coinDenom\":\"TMOTUS\",\"coinMinimalDenom\":\"utmotus\",\"coinDecimals\":6,\"coinGeckoId\":\"unknown\"}],\"feeCurrencies\":[{\"coinDenom\":\"TMOTUS\",\"coinMinimalDenom\":\"utmotus\",\"coinDecimals\":6,\"coinGeckoId\":\"unknown\"}],\"stakeCurrency\":{\"coinDenom\":\"TMOTUS\",\"coinMinimalDenom\":\"utmotus\",\"coinDecimals\":6,\"coinGeckoId\":\"unknown\"},\"gasPriceStep\":{\"low\":0.01,\"average\":0.025,\"high\":0.03},\"features\":[]}",
+  "chains": [
+    {
+      "network": "soarchain-testnet",
+      "chainType": "Tetsnet",
+      "genesis": {
+        "time": "2023-11-10T23:37:59.40031734Z",
+        "height": 1
+      },
+      "prefix": {
+        "consensus": "soarvalcons",
+        "validator": "soarvaloper",
+        "account": "soar"
+      },
+      "primaryTokenUnit": "utmotus",
+      "votingPowerTokenUnit": "utmotus",
+      "tokenUnits": {
+        "utmotus": {
+          "display": "tmotus",
+          "exponent": 6
+        }
+      },
+      "endpoints": {
+        "graphql": "http://localhost:8080/graphql",
+        "graphqlWebsocket": "ws://localhost:8080/graphql",
+        "publicRpcWebsocket": "wss://rpc2.testnet.soarchain.com/websocket"
+      },
+      "marketing": {
+        "matomoURL": "https://soarchain.com",
+        "matomoSiteID": "8"
+      }
+    }
+  ]
+}
